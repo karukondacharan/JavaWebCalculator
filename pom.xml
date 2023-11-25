@@ -7,17 +7,6 @@
   <version>0.1</version>
   <name>WebAppCal Maven Webapp</name>
   <url>http://maven.apache.org</url>
-  <build>
-  <pluginManagement>
-    <plugins>
-      <plugin>
-        <groupId>org.sonarsource.scanner.maven</groupId>
-        <artifactId>sonar-maven-plugin</artifactId>
-        <version>3.10.0.2594</version>
-      </plugin>
-    </plugins>
-  </pluginManagement>
-</build>
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
